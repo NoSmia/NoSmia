@@ -9,4 +9,3 @@
 
 </div>
 
-### :fire: My Stats :
